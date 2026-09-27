@@ -1,0 +1,5 @@
+url: https://github.com/173787247/dsh-wsl-eventlog
+name: 173787247/dsh-wsl-eventlog
+category: wsl
+description:
+  en: 'Read recent Windows event log entries from WSL, by log name and level.'
